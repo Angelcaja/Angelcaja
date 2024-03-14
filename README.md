@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **multiplataform developer degree / IA and Big Data master**
 
-- 👯 I’m looking to collaborate on **new IT protyect**
+- 👯 I’m looking to collaborate on **new IT proyect**
 
 - 🤝 I’m looking for help with **Enter in software developer world**
 
