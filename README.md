@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angel Caja</h1>
 <h3 align="center">A passionate Software developer from Spain</h3>
 
-- 🔭 I’m currently working on Ceis **Eficience energety lab**
+- 🔭 I’m currently working on FTPcomputers **Software developer**
 
-- 🌱 I’m currently learning **multiplataform developer degree / IA and Big Data master**
+- 🌱 I’m currently learning ** IA and Big Data master**
 
 - 👯 I’m looking to collaborate on **new IT proyect**
 
