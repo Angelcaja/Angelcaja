@@ -1,31 +1,60 @@
-<h1 align="center">Hi 👋, I'm Angel Caja</h1>
-<h3 align="center">A passionate Software developer from Spain</h3>
+# 👋 Hi there, I'm Angel Caja
 
-- 🔭 I’m currently working on FTPcomputers **Software developer**
+### 🚀 CTO & Co-Founder at [RoomUp](https://roomup.es)
 
-- 🌱 I’m currently learning ** IA and Big Data master**
+A passionate **Software Developer & Technical Leader** from Spain, currently driving the technological vision and development of **RoomUp**, a startup focused on connecting people through smart housing and shared living experiences.
 
-- 👯 I’m looking to collaborate on **new IT proyect**
+---
 
-- 🤝 I’m looking for help with **Enter in software developer world**
+### 💡 About Me
 
-- 💬 Ask me about **JAVA**
+- 💼 Currently leading the **RoomUp** development team as **CTO**, overseeing the full lifecycle — from architecture and app design to deployment and scalability.  
+- 💬 I’m passionate about creating **efficient, human-centered digital products** that make a real impact.  
+- 🎯 Focused on building scalable, maintainable systems and mentoring developers to grow with the project.  
+- 🌱 Constantly learning and improving — always open to collaboration and innovation.  
+- 🤝 Open to networking with entrepreneurs, developers, and product designers who share a vision for tech-driven housing solutions.
 
-- 📫 How to reach me **angelcj1996@hotmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/%C3%A1ngel-caja-jaime-3022351b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%C3%A1ngel-caja-jaime-3022351b2" height="30" width="40" /></a>
+### 🧠 RoomUp in a nutshell
+
+🏠 **RoomUp** is a modern platform that connects **tenants** and **property owners**, simplifying the process of finding the perfect match for shared living.  
+Our mission is to create a seamless experience that helps people find not just a place to live, but **the right people to live with**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:angelcj1996@hotmail.com"><img src="https://img.shields.io/badge/Email-angelcj1996%40hotmail.com-blue?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/angel-caja"><img src="https://img.shields.io/badge/LinkedIn-Angel%20Caja-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Angelcaja"><img src="https://img.shields.io/badge/GitHub-Angelcaja-black?logo=github" /></a>
 </p>
+
+---
+
+### ✨ Personal Quote
+
+> *“Leadership in tech is not just about code — it’s about vision, empathy, and building things that matter.”*
+
+---
+
+⭐️ From [@Angelcaja](https://github.com/Angelcaja)  
+*CTO at [RoomUp](https://github.com/Angelcaja/RoomUp)*
 
