@@ -42,7 +42,7 @@ Our mission is to create a seamless experience that helps people find not just a
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:angel@roomup.com"><img src="https://img.shields.io/badge/Email-angelcj1996%40hotmail.com-blue?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:angel@roomup.com"><img src="https://img.shields.io/badge/Email-angel%40roomup.es-blue?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/angel-caja"><img src="https://img.shields.io/badge/LinkedIn-Angel%20Caja-blue?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Angelcaja"><img src="https://img.shields.io/badge/GitHub-Angelcaja-black?logo=github" /></a>
 </p>
